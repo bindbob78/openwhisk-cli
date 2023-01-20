@@ -29,3 +29,5 @@ tests/out/
 
 # Misc
 javascript/
+
+.fake
